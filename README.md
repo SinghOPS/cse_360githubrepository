@@ -1,2 +1,2 @@
 # cse_360githubrepository
-Leaning github
+Learning github
